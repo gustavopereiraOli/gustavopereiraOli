@@ -29,6 +29,6 @@ Tenho 19 anos e estou cursando a faculdade de Engenharia de Software na PUC Mina
 <br />
 
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoPereira-SE&show_icons=true&count_private=true&hide_border=false&title_color=2f81f7&icon_color=2f81f7&text_color=e6edf3&bg_color=0d1117" alt="GitHub stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavopereiraOli&show_icons=true&count_private=true&hide_border=false&title_color=2f81f7&icon_color=2f81f7&text_color=e6edf3&bg_color=0d1117" alt="GitHub stats" /> 
    <img width=200% src="https://capsule-render.vercel.app/api?type=waving&color=2f81f7&height=100&section=footer"/>
 </p>
