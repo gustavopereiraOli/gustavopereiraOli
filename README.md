@@ -1,6 +1,6 @@
 # 🐱‍👤 Gustavo Pereira
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tilt+Neon&pause=1000&color=F7F7F7&vCenter=true&width=435&height=25&lines=%C3%80+procura+de+um+est%C3%A1gio..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tilt+Neon&pause=1000&color=ff0000&vCenter=true&width=435&height=25&lines=%C3%80+procura+de+um+est%C3%A1gio..." alt="Typing SVG" /></a>
 
 **`Futuro Engenheiro de Software`**
 
@@ -30,5 +30,5 @@ Tenho 19 anos e estou cursando a faculdade de Engenharia de Software na PUC Mina
 
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=gustavopereiraOli&show_icons=true&count_private=true&hide_border=false&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=0d1117" alt="GitHub stats" /> 
-   <img width=200% src="https://capsule-render.vercel.app/api?type=waving&color=2f81f7&height=100&section=footer"/>
+   <img width=200% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=footer"/>
 </p>
